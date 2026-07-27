@@ -1,5 +1,27 @@
 # Changelog
 
+## [0.4.13](https://github.com/home-operations/flate/compare/v0.4.12...v0.4.13) (2026-07-27)
+
+
+### Features
+
+* **deps:** update module github.com/fluxcd/pkg/kustomize (v1.38.0 → v1.39.0) ([#852](https://github.com/home-operations/flate/issues/852)) ([69fa93c](https://github.com/home-operations/flate/commit/69fa93c2d5f71138ff058d80ce3c0bd15e12ede0))
+* **go:** update module github.com/controlplaneio-fluxcd/flux-operator (v0.55.0 → v0.56.0) ([#861](https://github.com/home-operations/flate/issues/861)) ([63ae4ea](https://github.com/home-operations/flate/commit/63ae4ead0ffc6bdb0fa32ae7d407db57f5964fa3))
+* **go:** update module github.com/google/cel-go (v0.29.2 → v0.30.0) ([#866](https://github.com/home-operations/flate/issues/866)) ([03d6386](https://github.com/home-operations/flate/commit/03d63863b3ae098439143abc2e097e206f65d300))
+
+
+### Bug Fixes
+
+* **go:** update kubernetes monorepo (v0.36.2 → v0.36.3) ([#856](https://github.com/home-operations/flate/issues/856)) ([3acebc7](https://github.com/home-operations/flate/commit/3acebc700235bf8701fc2f03aeb7ebeec966ce53))
+* **go:** update module github.com/fluxcd/helm-controller/api (v1.6.2 → v1.6.3) ([#857](https://github.com/home-operations/flate/issues/857)) ([5087f44](https://github.com/home-operations/flate/commit/5087f4411fba333ff67a35ac7504c5ed4f1e28b4))
+* **go:** update module github.com/fluxcd/kustomize-controller/api (v1.9.3 → v1.9.4) ([#858](https://github.com/home-operations/flate/issues/858)) ([8231bd0](https://github.com/home-operations/flate/commit/8231bd0e812cd08b78a53f5484ba94de251173e2))
+* **source:** route OCI HelmRepository semver constraints to ref.SemVer ([#855](https://github.com/home-operations/flate/issues/855)) ([30441fc](https://github.com/home-operations/flate/commit/30441fc0b509e551c3f56c416a87ad864a18b968))
+
+
+### Documentation
+
+* point the CI badge at ci.yaml ([#865](https://github.com/home-operations/flate/issues/865)) ([3010a9e](https://github.com/home-operations/flate/commit/3010a9e6defb9bb09900bc8e406512ca4f63e347))
+
 ## [0.4.12](https://github.com/home-operations/flate/compare/v0.4.11...v0.4.12) (2026-07-20)
 
 
